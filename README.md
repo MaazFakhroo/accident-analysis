@@ -75,7 +75,7 @@ accident-analysis/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/suneharati08/accident-analysis.git
+git clone https://github.com/MaazFakhroo/accident-analysis.git
 cd accident-analysis
 ```
 
